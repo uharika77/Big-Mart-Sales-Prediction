@@ -83,7 +83,9 @@ This project demonstrates the application of machine learning techniques to pred
 ## References
 
 [Pandas Documentation](https://pandas.pydata.org/docs/)
+
 [Scikit-learn Documentation](https://scikit-learn.org/stable/)
+
 [XGBoost Documentation](https://xgboost.readthedocs.io/en/stable/)
 
 For further details, refer to the Big_Mart_Sales_Prediction.ipynb notebook.
